@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e102a5537dc469b0a2ee057b0cd7288e",
+    "revision": "9ab48088de77342b28d03c76131fed7d",
     "url": "/Udemy-react2020-monster-roladex/index.html"
   },
   {
-    "revision": "79b7000a1675d89c7809",
-    "url": "/Udemy-react2020-monster-roladex/static/css/main.8c2e8256.chunk.css"
+    "revision": "9f4e7db8c4d12edd1dc5",
+    "url": "/Udemy-react2020-monster-roladex/static/css/main.f13880e3.chunk.css"
   },
   {
     "revision": "9d36cb1448d0cd9bbf34",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Udemy-react2020-monster-roladex/static/js/2.9d52131b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "79b7000a1675d89c7809",
-    "url": "/Udemy-react2020-monster-roladex/static/js/main.9447bcd7.chunk.js"
+    "revision": "9f4e7db8c4d12edd1dc5",
+    "url": "/Udemy-react2020-monster-roladex/static/js/main.b8d1d281.chunk.js"
   },
   {
     "revision": "03131e7db379f3426571",

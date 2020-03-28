@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Udemy-react2020-monster-roladex/precache-manifest.5329b50ca6e5e09514bc54810fd32391.js"
+  "/Udemy-react2020-monster-roladex/precache-manifest.ca48a95602f4729e1d5ba8db6e28b249.js"
 );
 
 self.addEventListener('message', (event) => {
