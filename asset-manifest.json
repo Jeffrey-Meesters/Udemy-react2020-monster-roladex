@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Udemy-react2020-monster-roladex/static/css/main.8c2e8256.chunk.css",
+    "main.js": "/Udemy-react2020-monster-roladex/static/js/main.9447bcd7.chunk.js",
+    "main.js.map": "/Udemy-react2020-monster-roladex/static/js/main.9447bcd7.chunk.js.map",
+    "runtime-main.js": "/Udemy-react2020-monster-roladex/static/js/runtime-main.29435a1a.js",
+    "runtime-main.js.map": "/Udemy-react2020-monster-roladex/static/js/runtime-main.29435a1a.js.map",
+    "static/js/2.9d52131b.chunk.js": "/Udemy-react2020-monster-roladex/static/js/2.9d52131b.chunk.js",
+    "static/js/2.9d52131b.chunk.js.map": "/Udemy-react2020-monster-roladex/static/js/2.9d52131b.chunk.js.map",
+    "index.html": "/Udemy-react2020-monster-roladex/index.html",
+    "precache-manifest.5329b50ca6e5e09514bc54810fd32391.js": "/Udemy-react2020-monster-roladex/precache-manifest.5329b50ca6e5e09514bc54810fd32391.js",
+    "service-worker.js": "/Udemy-react2020-monster-roladex/service-worker.js",
+    "static/css/main.8c2e8256.chunk.css.map": "/Udemy-react2020-monster-roladex/static/css/main.8c2e8256.chunk.css.map",
+    "static/js/2.9d52131b.chunk.js.LICENSE.txt": "/Udemy-react2020-monster-roladex/static/js/2.9d52131b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29435a1a.js",
+    "static/js/2.9d52131b.chunk.js",
+    "static/css/main.8c2e8256.chunk.css",
+    "static/js/main.9447bcd7.chunk.js"
+  ]
+}
