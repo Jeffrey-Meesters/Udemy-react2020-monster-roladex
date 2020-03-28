@@ -22,6 +22,12 @@ class App extends Component {
         })
       );
   }
+
+  // es6 binds this so we don't need to bind in the constructor
+  handleChange = e => {
+    this.setState({ search: e.target.value });
+  };
+
   render() {
     const { monsters, search } = this.state;
     const filteredMonsters = monsters.filter(monster =>
@@ -32,7 +38,7 @@ class App extends Component {
       <div className="App">
         <SearchBox
           placeholder="Search monsters"
-          handleChange={e => this.setState({ search: e.target.value })}
+          handleChange={this.handleChange}
         />
         <CardList monsters={filteredMonsters} />
       </div>
